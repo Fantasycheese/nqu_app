@@ -27,6 +27,7 @@ class App extends StatelessWidget {
             StudyTable(title: "BOOK: 3, HOURS: 7"),
             StudyTable(title: "BOOK: 3, HOURS: 2"),
             StudyTable(title: "BOOK: 3, HOURS: 1"),
+            StudyTable(title: "BOOK: 3, HOURS: 1"),
           ],
         ),
       ),
